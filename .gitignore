@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+project_0/guess-number-task/README.md
+project_0/guess-number-task/game.py
+project_0/guess-number-task/game.ipynb
+project_0/guess-number-task/game_v2.py
