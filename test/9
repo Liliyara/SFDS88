@@ -1,8 +1,0 @@
-# Введите здесь ваш код
-import numpy as np
-arr = np.arange(6)
-
-print(np.random.shuffle(arr))
-# None
-print(arr)
-# array([0, 5, 1, 3, 2, 4])
